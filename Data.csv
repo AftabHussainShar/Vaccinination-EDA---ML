@@ -1,0 +1,81 @@
+Age,Gender,Education,Employment Status,Area of Residence,Household Income,Health Insurance,Access to Healthcare,Vaccinated,Barriers to Vaccination,Reason for Not Vaccinating,Information Source,Trust in Information,Perception of Vaccine Benefits
+56,Female,Graduate or professional degree,Unemployed,Urban,35000,Yes,Good,Partially vaccinated,Lack of transportation,Concerns about side effects,Television,Moderately,Neutral
+69,Female,High school graduate,Employed,Suburban,45000,Yes,Excellent,Fully vaccinated,No difficulties,Concerns about side effects,Television,A lot,Disagree
+46,Male,Some college,Employed,Suburban,80000,Yes,Good,Fully vaccinated,No difficulties,Concerns about side effects,Television,A little,Neutral
+32,Male,Bachelor’s degree,Unemployed,Urban,35000,Yes,Poor,Fully vaccinated,Lack of transportation,Lack of trust in vaccines,Healthcare providers,Moderately,Disagree
+60,Male,High school graduate,Unemployed,Suburban,80000,Yes,Average,Partially vaccinated,Lack of transportation,Advised not to by a healthcare provider,Television,A lot,Agree
+25,Male,Graduate or professional degree,Student,Urban,45000,Yes,Poor,No,Long waiting times,Concerns about side effects,Newspapers/magazines,Not at all,Neutral
+38,Male,Graduate or professional degree,Unemployed,Urban,35000,Yes,Excellent,Fully vaccinated,Long waiting times,Waiting to see if the vaccine is safe,Television,Moderately,Strongly disagree
+56,Male,High school graduate,Employed,Suburban,80000,Yes,Good,Fully vaccinated,Difficulty finding a vaccination site,Lack of trust in vaccines,Newspapers/magazines,A little,Strongly agree
+36,Female,Some college,Employed,Suburban,80000,Yes,Poor,Fully vaccinated,No difficulties,Lack of trust in vaccines,Online news websites,A lot,Strongly agree
+40,Male,High school graduate,Employed,Suburban,100000,Yes,Good,Fully vaccinated,No difficulties,Lack of trust in vaccines,Online news websites,A lot,Strongly agree
+28,Male,High school graduate,Employed,Suburban,80000,No,Good,Fully vaccinated,No difficulties,Lack of trust in vaccines,Television,A lot,Strongly agree
+28,Female,Some high school,Employed,Rural,80000,Yes,Average,Fully vaccinated,Vaccine hesitancy due to misinformation,Advised not to by a healthcare provider,Television,Moderately,Disagree
+41,Male,Bachelor’s degree,Retired,Suburban,45000,Yes,Poor,Fully vaccinated,Difficulty finding a vaccination site,Concerns about side effects,Television,A lot,Neutral
+53,Female,Some college,Employed,Urban,45000,No,Good,Fully vaccinated,No difficulties,Concerns about side effects,Healthcare providers,A lot,Agree
+57,Male,Some high school,Student,Suburban,80000,Yes,Average,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Healthcare providers,A little,Agree
+41,Other,High school graduate,Unemployed,Urban,80000,No,Good,Fully vaccinated,Vaccine hesitancy due to misinformation,Do not think I need it,Newspapers/magazines,A lot,Disagree
+20,Female,Graduate or professional degree,Unemployed,Urban,100000,Yes,Average,No,No difficulties,Lack of trust in vaccines,Newspapers/magazines,Not at all,Strongly agree
+39,Male,High school graduate,Employed,Urban,60000,No,Excellent,Fully vaccinated,Difficulty finding a vaccination site,Concerns about side effects,Online news websites,Moderately,Neutral
+19,Male,High school graduate,Employed,Urban,60000,Yes,Good,Fully vaccinated,Difficulty finding a vaccination site,Advised not to by a healthcare provider,Television,A little,Neutral
+41,Female,Some college,Employed,Rural,80000,No,Good,Fully vaccinated,Long waiting times,Lack of trust in vaccines,Healthcare providers,A little,Agree
+61,Female,Graduate or professional degree,Employed,Rural,45000,Yes,Excellent,Fully vaccinated,No difficulties,Concerns about side effects,Social media,Not at all,Agree
+47,Female,High school graduate,Unemployed,Suburban,100000,No,Average,Fully vaccinated,Concerns about side effects,Concerns about side effects,Social media,Moderately,Agree
+55,Female,Bachelor’s degree,Employed,Urban,100000,Yes,Poor,Fully vaccinated,Vaccine hesitancy due to misinformation,Waiting to see if the vaccine is safe,Social media,A little,Strongly disagree
+19,Male,Bachelor’s degree,Employed,Urban,60000,Yes,Very poor,Fully vaccinated,Difficulty finding a vaccination site,Waiting to see if the vaccine is safe,Television,Moderately,Strongly agree
+38,Male,High school graduate,Unemployed,Urban,80000,No,Good,Fully vaccinated,Long waiting times,Concerns about side effects,Television,Not at all,Neutral
+50,Male,Bachelor’s degree,Employed,Urban,80000,Yes,Good,Fully vaccinated,Vaccine hesitancy due to misinformation,Concerns about side effects,Online news websites,A little,Disagree
+29,Female,High school graduate,Retired,Suburban,35000,Yes,Good,Fully vaccinated,Lack of transportation,Concerns about side effects,Television,Moderately,Strongly agree
+39,Female,Bachelor’s degree,Retired,Suburban,100000,Yes,Poor,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Newspapers/magazines,Moderately,Strongly agree
+61,Male,Bachelor’s degree,Retired,Suburban,60000,Yes,Poor,Fully vaccinated,Difficulty finding a vaccination site,Concerns about side effects,Television,A little,Strongly agree
+42,Male,Some college,Employed,Urban,80000,Yes,Very poor,Fully vaccinated,Long waiting times,Concerns about side effects,Social media,Moderately,Strongly agree
+66,Male,Some high school,Employed,Rural,45000,Yes,Average,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Television,A lot,Agree
+44,Male,Bachelor’s degree,Retired,Suburban,100000,No,Good,No,Lack of transportation,Concerns about side effects,Social media,Moderately,Agree
+59,Female,High school graduate,Employed,Suburban,60000,Yes,Average,Fully vaccinated,Vaccine hesitancy due to misinformation,Waiting to see if the vaccine is safe,Online news websites,A little,Strongly disagree
+45,Female,High school graduate,Retired,Suburban,35000,Yes,Average,Fully vaccinated,Vaccine hesitancy due to misinformation,Concerns about side effects,Television,Not at all,Agree
+33,Female,Some high school,Retired,Urban,100000,No,Excellent,No,No difficulties,Concerns about side effects,Newspapers/magazines,A lot,Neutral
+32,Male,Some college,Student,Urban,35000,No,Average,Fully vaccinated,No difficulties,Concerns about side effects,Social media,Not at all,Neutral
+64,Male,Bachelor’s degree,Employed,Urban,45000,Yes,Average,Fully vaccinated,Vaccine hesitancy due to misinformation,Waiting to see if the vaccine is safe,Online news websites,A lot,Agree
+68,Female,Some high school,Employed,Suburban,100000,Yes,Good,Fully vaccinated,Concerns about side effects,Waiting to see if the vaccine is safe,Healthcare providers,Moderately,Agree
+61,Female,Some college,Student,Urban,100000,Yes,Average,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Online news websites,A lot,Strongly disagree
+69,Female,High school graduate,Employed,Urban,60000,Yes,Good,Fully vaccinated,Vaccine hesitancy due to misinformation,Lack of trust in vaccines,Television,Moderately,Neutral
+20,Female,Bachelor’s degree,Employed,Urban,80000,Yes,Excellent,Fully vaccinated,Concerns about side effects,Waiting to see if the vaccine is safe,Television,A lot,Agree
+54,Female,High school graduate,Employed,Urban,60000,Yes,Excellent,Fully vaccinated,Difficulty finding a vaccination site,Concerns about side effects,Television,A little,Strongly disagree
+68,Female,Bachelor’s degree,Retired,Rural,45000,Yes,Poor,Fully vaccinated,Difficulty finding a vaccination site,Concerns about side effects,Newspapers/magazines,Moderately,Strongly agree
+24,Male,High school graduate,Unemployed,Suburban,45000,Yes,Excellent,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Television,Moderately,Agree
+38,Male,Graduate or professional degree,Employed,Urban,80000,No,Average,Fully vaccinated,No difficulties,Concerns about side effects,Social media,Moderately,Agree
+26,Male,High school graduate,Employed,Urban,80000,No,Average,Fully vaccinated,No difficulties,Concerns about side effects,Newspapers/magazines,Moderately,Agree
+56,Male,High school graduate,Unemployed,Urban,80000,Yes,Average,Fully vaccinated,Concerns about side effects,Concerns about side effects,Social media,A lot,Strongly agree
+35,Female,High school graduate,Retired,Urban,80000,Yes,Excellent,No,No difficulties,Concerns about side effects,Online news websites,A lot,Neutral
+21,Male,Graduate or professional degree,Employed,Urban,35000,Yes,Average,Fully vaccinated,No difficulties,Concerns about side effects,Television,Moderately,Agree
+42,Female,Graduate or professional degree,Employed,Urban,60000,No,Average,Fully vaccinated,No difficulties,Advised not to by a healthcare provider,Television,Moderately,Agree
+31,Female,High school graduate,Student,Urban,35000,Yes,Good,Fully vaccinated,Difficulty finding a vaccination site,Lack of trust in vaccines,Online news websites,Moderately,Neutral
+67,Male,Bachelor’s degree,Unemployed,Suburban,60000,Yes,Poor,Fully vaccinated,Vaccine hesitancy due to misinformation,Waiting to see if the vaccine is safe,Social media,Moderately,Strongly agree
+26,Male,Bachelor’s degree,Unemployed,Suburban,60000,No,Very poor,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Online news websites,A little,Agree
+43,Female,Some college,Unemployed,Urban,100000,No,Poor,Fully vaccinated,No difficulties,Lack of trust in vaccines,Social media,A little,Agree
+19,Male,Some college,Employed,Urban,60000,No,Poor,Fully vaccinated,Lack of transportation,Concerns about side effects,Television,A little,Strongly agree
+37,Male,High school graduate,Employed,Suburban,35000,Yes,Poor,Fully vaccinated,No difficulties,Lack of trust in vaccines,Online news websites,A little,Strongly agree
+45,Male,Some high school,Student,Suburban,35000,Yes,Poor,Fully vaccinated,No difficulties,Advised not to by a healthcare provider,Online news websites,A little,Agree
+64,Male,Graduate or professional degree,Student,Rural,80000,Yes,Good,No,No difficulties,Concerns about side effects,Online news websites,A little,Strongly agree
+24,Female,Graduate or professional degree,Student,Suburban,80000,No,Poor,Fully vaccinated,No difficulties,Advised not to by a healthcare provider,Television,Not at all,Agree
+61,Female,Bachelor’s degree,Retired,Urban,35000,No,Average,Fully vaccinated,No difficulties,Lack of trust in vaccines,Newspapers/magazines,Not at all,Agree
+25,Female,High school graduate,Employed,Urban,35000,Yes,Excellent,Fully vaccinated,No difficulties,Advised not to by a healthcare provider,Social media,A lot,Agree
+64,Female,High school graduate,Employed,Suburban,80000,Yes,Average,Fully vaccinated,No difficulties,Lack of trust in vaccines,Television,Moderately,Agree
+52,Female,Bachelor’s degree,Unemployed,Urban,35000,Yes,Good,Fully vaccinated,Vaccine hesitancy due to misinformation,Concerns about side effects,Healthcare providers,A little,Disagree
+31,Male,Graduate or professional degree,Unemployed,Suburban,80000,No,Poor,Fully vaccinated,No difficulties,Do not think I need it,Television,Moderately,Strongly agree
+34,Female,Graduate or professional degree,Unemployed,Rural,80000,No,Poor,No,Difficulty finding a vaccination site,Waiting to see if the vaccine is safe,Friends/family,A little,Strongly agree
+53,Female,Bachelor’s degree,Unemployed,Suburban,35000,Yes,Very poor,No,Long waiting times,Concerns about side effects,Social media,A lot,Strongly disagree
+67,Female,Bachelor’s degree,Student,Urban,35000,Yes,Poor,Partially vaccinated,No difficulties,Waiting to see if the vaccine is safe,Television,Moderately,Strongly agree
+57,Female,Some high school,Employed,Suburban,100000,Yes,Average,Fully vaccinated,Long waiting times,Lack of trust in vaccines,Social media,Not at all,Disagree
+21,Male,High school graduate,Employed,Urban,60000,No,Poor,Fully vaccinated,No difficulties,Waiting to see if the vaccine is safe,Healthcare providers,Moderately,Neutral
+19,Male,Graduate or professional degree,Employed,Suburban,60000,No,Very poor,Fully vaccinated,Vaccine hesitancy due to misinformation,Waiting to see if the vaccine is safe,Online news websites,A lot,Agree
+23,Male,Bachelor’s degree,Employed,Rural,80000,No,Poor,Fully vaccinated,No difficulties,Lack of trust in vaccines,Online news websites,A lot,Disagree
+59,Male,Some high school,Employed,Urban,100000,Yes,Average,Fully vaccinated,No difficulties,Concerns about side effects,Online news websites,Moderately,Strongly agree
+21,Female,High school graduate,Employed,Rural,100000,Yes,Poor,Fully vaccinated,No difficulties,Concerns about side effects,Online news websites,Moderately,Strongly agree
+46,Female,Bachelor’s degree,Employed,Rural,80000,Yes,Average,Fully vaccinated,Vaccine hesitancy due to misinformation,Lack of trust in vaccines,Online news websites,A little,Agree
+35,Male,Some high school,Employed,Urban,60000,Yes,Average,Fully vaccinated,Difficulty finding a vaccination site,Advised not to by a healthcare provider,Television,A lot,Strongly disagree
+43,Female,High school graduate,Employed,Urban,35000,No,Good,Fully vaccinated,Difficulty finding a vaccination site,Concerns about side effects,Social media,A little,Neutral
+61,Male,Some college,Employed,Urban,80000,No,Very poor,Fully vaccinated,No difficulties,Concerns about side effects,Television,A lot,Agree
+51,Male,Bachelor’s degree,Employed,Urban,60000,No,Good,Fully vaccinated,Lack of transportation,Waiting to see if the vaccine is safe,Friends/family,Moderately,Strongly agree
+27,Male,Bachelor’s degree,Student,Urban,60000,No,Good,Fully vaccinated,No difficulties,Do not think I need it,Healthcare providers,Moderately,Agree
+53,Male,High school graduate,Employed,Suburban,100000,Yes,Very poor,Fully vaccinated,Concerns about side effects,Lack of trust in vaccines,Television,Moderately,Neutral
